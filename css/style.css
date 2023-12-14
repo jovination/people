@@ -5,17 +5,16 @@ html{
 body{
 margin: 0;
 padding: 0;
-background: white;
+background:#F6F5EF;
 }
 
 .nav-bar{    
     width: 100%;
-    height: 70px;
+    height: 60px;
     display: flex;
     flex-direction: row;
     gap: 270px;
     align-items: center;
-    margin-top: 25px;
 }
 .logo{
     margin: 0;
@@ -65,12 +64,10 @@ background: white;
     margin: 0 auto;
 }
 .container{
-    margin-top: 5px;
     width: 100%;
     height: 100%;
     display: flex;
     justify-content: center;
-    align-items: center;
     flex-direction: row;
     gap: 20px;
 }
@@ -96,11 +93,11 @@ background: white;
 .illustration{
     margin-top: 15px;
     width: 100%;
-    height: 250px;
+    height: 215px;
 }
 .vctr{
-    width: 400px;
-    height: 250px;
+    width: 385px;
+    height: 215px;
 }
 .button{
     width: 150px;
@@ -147,16 +144,16 @@ background: white;
     position: absolute;
     height: 90px;
     width: 90px;
-    top: 266px;
-    right: 112px;
+    top: 255px;
+    right: 122px;
 }
 .row1{
-    width: 465px;
-    height: 155px;
+    width: 470px;
+    height: 150px;
 }
 .col1, .col3, .col4{
-    width: 155px;
-    height: 155px;
+    width: 150px;
+    height: 150px;
 }
 
 
@@ -191,16 +188,16 @@ background: white;
     align-items: center;
 }
 .two-1{
-    width: 310px;
-    height: 155px;
+    width: 300px;
+    height: 150px;
     border-radius: 75px 0px 75px 0px;
     background-image: url(../images/1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 .two-2{
-    width: 155px;
-    height: 155px;
+    width: 150px;
+    height: 150px;
     background: #F9EA65;
     border-radius: 0px 0px 0px 75px;
 }
