@@ -13,7 +13,7 @@ background:#F6F5EF;
     height: 60px;
     display: flex;
     flex-direction: row;
-    gap: 270px;
+    gap: 300px;
     align-items: center;
 }
 .logo{
@@ -28,12 +28,14 @@ background:#F6F5EF;
     justify-content: center;    
 }
 .logo p{
+    margin: 0;
+    margin-bottom: 4px;
     font-size: 18px;
     font-weight: 700;
 }
 .fingertip{
-    width: 45px;
-    height: 45px;
+    width: 35px;
+    height: 35px;
 }
 .sec-nav{
     width: 115px;
@@ -69,6 +71,7 @@ background:#F6F5EF;
     display: flex;
     justify-content: center;
     flex-direction: row;
+    margin-top: 10px;
     gap: 20px;
 }
 .container .left{
@@ -171,16 +174,16 @@ background:#F6F5EF;
     display: flex;
 }
 .one-1{
-    background: #F9EA65;
+    background: #EACB29;
     border-radius: 0px 75px 0px 0px;
 }
 .one-2{
-    background: #E2B7E0;
+    background: #C279BE;
     border-radius: 0px 0px 75px 0px;
 
 }
 .one-3{
-    background: #000000;
+    background: #090706;
     border-radius: 75px 0px 0px 0px;
     display: flex;
     flex-direction: column;
@@ -198,15 +201,15 @@ background:#F6F5EF;
 .two-2{
     width: 150px;
     height: 150px;
-    background: #F9EA65;
+    background: #EACB29;
     border-radius: 0px 0px 0px 75px;
 }
 .three-1{
-    background: #000000;
+    background: #090706;
     border-radius: 75px 0px 0px 0px;
 }
 .three-2{
-    background: #E2B7E0;
+    background: #C279BE;
     border-radius: 50%;
 }
 .three-3{
@@ -223,10 +226,10 @@ background:#F6F5EF;
     background-position: center
 }
 .four-2{
-    background: #F9EA65;
+    background: #EACB29;
 }
 .four-3{
-    background: #E2B7E0;
+    background: #C279BE;
     border-radius: 0px 75px 0px 75px;
 }
 .one-3 span{
